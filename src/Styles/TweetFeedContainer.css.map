@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,MAAM,CAAC;EACH,KAAK,ECFE,OAAO;EDGd,SAAS,ECDG,MAAM;CDErB;;AAED,AAAA,YAAY,CAAC;EACT,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,KAAK,ECVG,OAAO;CDWlB",
+    "sources": [
+        "TweetFeedContainer.scss",
+        "../StyleVariables/Variables.scss"
+    ],
+    "names": [],
+    "file": "TweetFeedContainer.css"
+}

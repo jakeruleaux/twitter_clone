@@ -1,1 +1,14 @@
-@import '../Variables/Variables.scss';
+@import '../StyleVariables/Variables.scss';
+
+.tweetView{
+    box-shadow: 0 0 9px $darkGrey;
+    background-color: white;
+}
+
+
+.button{
+    color: $blueText;
+    width: 100%;
+    height: 30px;
+}
+

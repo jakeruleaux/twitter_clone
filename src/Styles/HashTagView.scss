@@ -1,1 +1,6 @@
-@import '../Variables/Variables.scss';
+@import '../StyleVariables/Variables.scss';
+
+.title {
+    color: $darkGrey;
+    font-size: $titleFontSize;
+}

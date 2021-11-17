@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,UAAU,CAAA;EACN,UAAU,EAAE,CAAC,CAAC,CAAC,CAAC,GAAG,CCFZ,OAAO;EDGd,gBAAgB,EAAE,KAAK;CAC1B;;AAGD,AAAA,OAAO,CAAA;EACH,KAAK,ECPE,OAAO;EDQd,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;CACf",
+    "sources": [
+        "TweetView.scss",
+        "../StyleVariables/Variables.scss"
+    ],
+    "names": [],
+    "file": "TweetView.css"
+}
