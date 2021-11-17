@@ -2,7 +2,9 @@ import React, { useState } from 'react';
 
 const HashTagView = () => {
     return(
-        <div>HV </div>
+        <div>
+            <h1>Filter by hashtag</h1>
+        </div>
     );
 };
 

@@ -1,4 +1,4 @@
-import TweetFeedContainer from './components/TweetFeedContainer';
+import TweetFeedContainer from './Components/TweetFeedContainer';
 
 function App() {
   return (

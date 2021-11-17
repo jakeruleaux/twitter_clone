@@ -2,7 +2,9 @@ import React, { useState } from 'react';
 
 const TweetView = () => {
     return(
-        <div>TV </div>
+        <div>
+            <button>Load more</button>
+        </div>
     );
 };
 

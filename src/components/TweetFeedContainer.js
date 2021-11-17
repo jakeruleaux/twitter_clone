@@ -4,9 +4,13 @@ import TweetView from './TweetView';
 
 const TweetFeedContainer = () => {
     return(
-        <div>Container 
-            <TweetView />
-            <HashTagView />
+        <div>
+            <h1>Tweet Feed</h1>
+            <div>
+                <input placeholder="Search by keyword"></input>
+                <TweetView />
+                <HashTagView />
+            </div>
         </div>
     );
 };
