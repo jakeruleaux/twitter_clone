@@ -1,7 +1,10 @@
+import TweetFeedContainer from './Components/TweetFeedContainer';
+import Styles from './Styles/App.css';
 
 function App() {
   return (
-    <div>
+    <div className="app">
+      <TweetFeedContainer />
     </div>
   );
 }
